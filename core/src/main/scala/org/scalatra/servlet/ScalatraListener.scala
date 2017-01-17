@@ -71,7 +71,6 @@ object ScalatraListener {
 
   // DO NOT RENAME THIS CLASS NAME AS IT BREAKS THE ENTIRE WORLD
   // TOGETHER WITH THE WORLD IT WILL BREAK ALL EXISTING SCALATRA APPS
-  // RENAMING THIS CLASS WILL RESULT IN GETTING SHOT, IF YOU SURVIVE YOU WILL BE SHOT AGAIN
   val DefaultLifeCycle: String = "ScalatraBootstrap"
   val OldDefaultLifeCycle: String = "Scalatra"
   val LifeCycleKey: String = "org.scalatra.LifeCycle"
